@@ -1,0 +1,14 @@
+  
+  
+  InputStream str = (InputStream)uploadRequest.getFileAsStream("filePath", false);
+  
+------------------------------ ---------------------------------------------------------------------------------------------------------
+  u tube kink
+  https://www.youtube.com/watch?v=TDa-if619FM
+  
+  
+--------------- --------------- ---------------
+THE LINK WHICH HELPED ME TO FIX THE MOST AWAITED ISSUE of PROFILE PIC UPLOAD
+https://www.codejava.net/coding/how-to-display-images-from-database-in-jsp-page-with-java-servlet
+
+---------------------------------------------------------------------------------------------------------
